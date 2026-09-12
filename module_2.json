@@ -1,0 +1,15 @@
+{
+  "name": "plasma-runtime-5985",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 4997,
+    "createdAt": "2026-09-12T13:10:03.258Z"
+  }
+}
